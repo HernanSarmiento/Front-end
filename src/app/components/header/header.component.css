@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css");
+.header{
+  height: 80px;
+  width: 100%;
+  top: 0;
+  position: fixed;
+  background: #1c60de;
+}
+
+
+.img{
+  display: inline-block;
+  line-height: -50px;
+  margin-top: -5px;
+  margin-left: -5px;
+}
+
+
+h1{
+  display: inline-flex;
+  font-size: 22px;
+  font-family: 'Silkscreen', cursive;
+  color: white;
+}
+.ico{
+  margin-left: 650px !important;
+}
+
+.icon{
+  height: 100px;
+  width: 40px;
+}
+
+.btn-log{
+  margin-top: 2px;
+  color: white;
+  display: inline-block;
+  padding: 6px;
+  border: 1px solid white;
+  border-radius: 6px;
+}
+
+.btn-log:hover{
+  transition: .3s linear;
+  background: white;
+  color:#1c60de;
+}
