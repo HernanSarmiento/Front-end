@@ -5,6 +5,7 @@
   background-size: cover;
 }
 .img{
+  position: relative;
   background: url(../../../assets/foto.jpg);
   background-position: center;
   background-size: cover;
