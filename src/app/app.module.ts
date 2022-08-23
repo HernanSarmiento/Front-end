@@ -5,6 +5,7 @@ import { AppComponent } from './app.component';
 import { HeaderComponent } from './components/header/header.component';
 import { CuerpoComponent } from './components/cuerpo/cuerpo.component';
 import { BannerComponent } from './components/banner/banner.component';
+import { ExperienciasComponent } from './components/experiencias/experiencias.component';
 
 @NgModule({
   declarations: [
@@ -12,6 +13,7 @@ import { BannerComponent } from './components/banner/banner.component';
     HeaderComponent,
     CuerpoComponent,
     BannerComponent,
+    ExperienciasComponent,
   ],
   imports: [
     BrowserModule,

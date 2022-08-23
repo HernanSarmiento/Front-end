@@ -1,5 +1,8 @@
 .cuerpo{
   width: 100%;
   min-height: 700px;
-  background: rgb(242, 254, 131);
 }
+.img{
+  height: 500px;
+  border: 50%;
+  }
