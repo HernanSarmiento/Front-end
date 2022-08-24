@@ -7,6 +7,8 @@ import { CuerpoComponent } from './components/cuerpo/cuerpo.component';
 import { BannerComponent } from './components/banner/banner.component';
 import { ExperienciasComponent } from './components/experiencias/experiencias.component';
 import { AcercaDeMiComponent } from './components/acerca-de-mi/acerca-de-mi.component';
+import { EducacionComponent } from './components/educacion/educacion.component';
+import { SkillsComponent } from './components/skills/skills.component';
 
 @NgModule({
   declarations: [
@@ -16,6 +18,8 @@ import { AcercaDeMiComponent } from './components/acerca-de-mi/acerca-de-mi.comp
     BannerComponent,
     ExperienciasComponent,
     AcercaDeMiComponent,
+    EducacionComponent,
+    SkillsComponent,
   ],
   imports: [
     BrowserModule,
