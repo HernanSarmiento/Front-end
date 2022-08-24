@@ -6,8 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./experiencias.component.css']
 })
 export class ExperienciasComponent implements OnInit {
-  Nombre:string="HERNAN SARMIENTO";
-  Titulo:string="FULLSTACK DEVELOPER JR"
+
   constructor() { }
 
   ngOnInit(): void {
