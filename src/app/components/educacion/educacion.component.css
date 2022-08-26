@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Dirt&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+}
+.edu{
+  margin-top: -17px;
+  min-height: 200px;
+  background:linear-gradient(to right, rgb(95, 252, 166),rgb(68, 249, 68));
+}
+
+.texto{
+  margin-left: 300px;
+  font-family: 'Rubik Dirt', cursive;
+  font-size: 32px;
+  font-weight: bolder;
+  color: white;
+  text-shadow: 5px 3px 4px rgb(175, 55, 212);
+  text-transform:uppercase;
+  text-align: end;
+}

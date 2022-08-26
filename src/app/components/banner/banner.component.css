@@ -1,3 +1,7 @@
+*{
+  margin: 0;
+  padding: 0;
+}
 .banner{
   height: 600px;
   width: 100%;
@@ -5,13 +9,13 @@
   background-size: cover;
 }
 .img{
-  position: relative;
   background: url(../../../assets/foto.jpg);
+  margin-top: 360px;
+  margin-left: -13px;
   background-position: center;
   background-size: cover;
-  margin-top: -140px;
-  height: 300px;
-  width: 300px;
+  height: 265px;
+  width: 280px;
   border-radius: 50%;
 
   }

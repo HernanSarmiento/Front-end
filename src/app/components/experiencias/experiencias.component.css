@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Dirt&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Pinstripe:ital@1&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.exp{
+  margin-top: -15px;
+  min-height: 220px;
+  background: linear-gradient(to right,#000,grey);
+}
+
+.texto{
+  font-size: 32px;
+  font-family: 'Rubik Dirt', cursive;
+  font-weight: bolder;
+  text-transform: uppercase;
+  color: white;
+}
+.letra{
+  font-family: 'Alumni Sans Pinstripe', sans-serif;
+  font-weight: bolder;
+  margin-top: 10px;
+  margin-left: 50px;
+  font-size:27px;
+  color: white;
+
+}

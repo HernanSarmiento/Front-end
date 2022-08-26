@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Dirt&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.ski{
+  width: 100%;
+  min-height: 200px;
+  background: linear-gradient(to left,rgb(125, 125, 235),rgb(208, 48, 252));
+}
+
+.texto{
+  font-family: 'Rubik Dirt', cursive;
+  font-size: 32px;
+  font-weight: bolder;
+  text-shadow: 6px 2px 2px rgb(95, 252, 166);
+  text-transform: uppercase;
+}
