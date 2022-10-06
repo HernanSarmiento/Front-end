@@ -3,16 +3,14 @@
   padding: 0;
 }
 .banner{
-  height: 600px;
-  width: 100%;
+  height: 600PX;
   background: url(../../../assets/banner.jpg);
   background-size: cover;
 }
 .img{
   background: url(../../../assets/foto.jpg);
-  margin-top: 390px;
-  margin-left: -13px;
-  background-position: center;
+  margin-top: 500px;
+  /* background-position: 10% -50px ; */
   background-size: cover;
   height: 265px;
   width: 280px;

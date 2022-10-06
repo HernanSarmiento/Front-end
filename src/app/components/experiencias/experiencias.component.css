@@ -1,30 +1,37 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik+Dirt&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Pinstripe:ital@1&display=swap');
 
+
 *{
   margin: 0;
   padding: 0;
 }
 
 .exp{
-  margin-top: -15px;
-  min-height: 220px;
-background: #D8DADD;}
+  background:linear-gradient(to left,#151515,rgba(185, 185, 185, 0.8));
+}
+
+ul li{
+  list-style: none;
+}
+
 
 .texto{
-  font-size: 32px;
-  font-family: 'Rubik Dirt', cursive;
-  margin-left: 245px;
-  font-weight: bolder;
+  font-family: 'Rubik Dirt',italic ;
   text-transform: uppercase;
-  color: #1C60DE;
+  color:white;
+  text-shadow: 2px 4px 5px blueviolet;
 }
 .letra{
   font-family: 'Alumni Sans Pinstripe', sans-serif;
-  font-weight: bolder;
-  margin-top: 10px;
-  margin-left: 255px;
-  font-size:27px;
-  color: black;
+  color: white;
+}
 
+@media (min-width:992px){
+    .texto{
+      text-align: center;
+    }
+    .letra{
+      text-align: center;
+    }
 }
