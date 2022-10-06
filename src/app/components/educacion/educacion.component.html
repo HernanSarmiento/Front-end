@@ -1,3 +1,21 @@
-<div class="container-fluid edu">
-  <p class="texto">Educación</p>
+<div class="container-fluid text-center edu">
+    <div class="row">
+      <section class="col-xxl-12">
+      <p class="display-6 texto">
+          Educacion
+        </p>
+      </section>
+      <section class="row">
+        <ul>
+
+          <!-- <li class="h2">-<span style="text-decoration:underline;"></span></li> -->
+
+          <li *ngFor="let titu of titulo" class="h2">-<span style="text-decoration:underline;">{{titu.grado}}: {{titu.nombre}} - {{titu.anio}}</span></li>
+
+
+        </ul>
+
+      </section>
+
+    </div>
 </div>

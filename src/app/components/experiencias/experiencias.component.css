@@ -9,22 +9,22 @@
 .exp{
   margin-top: -15px;
   min-height: 220px;
-  background: linear-gradient(to right,#000,grey);
-}
+background: #D8DADD;}
 
 .texto{
   font-size: 32px;
   font-family: 'Rubik Dirt', cursive;
+  margin-left: 245px;
   font-weight: bolder;
   text-transform: uppercase;
-  color: white;
+  color: #1C60DE;
 }
 .letra{
   font-family: 'Alumni Sans Pinstripe', sans-serif;
   font-weight: bolder;
   margin-top: 10px;
-  margin-left: 50px;
+  margin-left: 255px;
   font-size:27px;
-  color: white;
+  color: black;
 
 }

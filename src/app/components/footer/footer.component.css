@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Silkscreen';
+}
+
+
+
+
+.footer{
+  /* background: #1c60de; */
+  background: #1c60de;
+  overflow: hidden;
+}
+
+
+p{
+  margin-left: 10px;
+  line-height: 80px;
+  min-height: 70px;
+  color:white;
+}
