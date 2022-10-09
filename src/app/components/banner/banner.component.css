@@ -3,14 +3,13 @@
   padding: 0;
 }
 .banner{
-  height: 600PX;
+  min-height: 600PX;
   background: url(../../../assets/banner.jpg);
   background-size: cover;
 }
 .img{
   background: url(../../../assets/foto.jpg);
   margin-top: 500px;
-  /* background-position: 10% -50px ; */
   background-size: cover;
   height: 265px;
   width: 280px;

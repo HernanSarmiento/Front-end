@@ -21,12 +21,11 @@
 
 
 h1{
-  display: inline-flex;
+  /* display: inline-flex; */
   font-family: 'Silkscreen', cursive;
   color: white;
 }
 .ico{
-  margin-left: 650px !important;
 }
 
 .icon{
